@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1728475853 source:c:\users\spiry\onedrive\desktop\tema1 compilatoare\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1730278194 source:c:\users\spiry\onedrive\desktop\folder\facultate\anul iii\comp\tema1\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
